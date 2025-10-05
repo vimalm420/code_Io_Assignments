@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d43af3c-2f1a-43c0-b192-b13becc87d34" name="Changes" comment="Added new assignments and updated main code" />
+    <list default="true" id="5d43af3c-2f1a-43c0-b192-b13becc87d34" name="Changes" comment="Updated logic in BankAccount.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -149,7 +150,63 @@
       <option name="project" value="LOCAL" />
       <updated>1759685426330</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added new assignments and updated main code">
+      <option name="closed" value="true" />
+      <created>1759685893377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759685893377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added new assignments and updated main code">
+      <option name="closed" value="true" />
+      <created>1759685903269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759685903269</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added new assignments and updated main code">
+      <option name="closed" value="true" />
+      <created>1759685914836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759685914836</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added new assignments and updated main code">
+      <option name="closed" value="true" />
+      <created>1759685931472</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759685931472</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added new assignments and updated main code">
+      <option name="closed" value="true" />
+      <created>1759686083538</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759686083539</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated logic in BankAccount.java">
+      <option name="closed" value="true" />
+      <created>1759686564347</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759686564347</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated logic in BankAccount.java">
+      <option name="closed" value="true" />
+      <created>1759686582707</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759686582707</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,7 +223,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Added new assignments and updated main code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new assignments and updated main code" />
+    <MESSAGE value="Updated logic in BankAccount.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated logic in BankAccount.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
