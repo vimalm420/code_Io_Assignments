@@ -23,7 +23,6 @@ public class BankAccount implements Runnable{
     private synchronized void withdraw(int amount) throws Exception {
         if(amount>balance||amount<0)
             throw new InsufficientBalanceException("Insufficient Balance");
-        balance-=amount;
     }
     public void getBalance(){
         System.out.println(balance);
